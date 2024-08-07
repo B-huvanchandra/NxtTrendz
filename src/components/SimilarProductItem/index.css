@@ -1,0 +1,50 @@
+.similar-product-container {
+  width: 75%;
+  padding: 16px;
+  padding-left: 0px;
+  list-style: none;
+}
+
+.similar-product-img {
+  width: 100%;
+  border-radius: 12px;
+}
+
+.product-title {
+  color: #12022f;
+  font-size: 18px;
+  margin: 4px 0px 8px 0px;
+  font-weight: 500;
+}
+
+.product-brand {
+  color: #616e7c;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.price-and-ratings-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.similar-price {
+  font-size: 18px;
+}
+
+.smr-products-rating-container {
+  display: flex;
+  background-color: #3b82f6;
+  border-radius: 12px;
+  align-items: center;
+  justify-content: space-around;
+  width: 65px;
+  height: 32px;
+  padding: 0px 6px;
+}
+
+.rating-text {
+  color: #ffffff;
+  font-size: 18px;
+}
